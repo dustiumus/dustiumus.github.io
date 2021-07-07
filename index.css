@@ -2,6 +2,16 @@
     background: yellow;
     height: 500px;
     width: 100%;
+    
+}
+
+#vader {
+    margin-left: 50px;
+    height: 200px;
+    width: 250px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
 }
 
 #sec2 {
@@ -22,6 +32,36 @@
     width: 100%;
 }
 
-* {
+body {
+    
     background: black;
+}
+
+
+h1 {
+    font-size: xx-large;
+    font-family: fantasy;
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    margin-left: 50px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-family: fantasy;
+    font-size: large;
+    margin-left: 700px; 
+}
+
+#about {
+    font-family: fantasy;
+    font-size: medium;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    margin-right: 100px;
 }

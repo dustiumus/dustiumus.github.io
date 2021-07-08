@@ -57,12 +57,29 @@ h2 {
     margin-right: 10em; 
 }
 
-#about {
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: fantasy;
     font-size: x-large;
+}
+
+#about {
+    font-family: fantasy;
+    font-size: xx-large;
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;
     margin-right: 3em;
+}
+
+#story {
+    font-family: fantasy;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 

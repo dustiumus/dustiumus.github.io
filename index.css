@@ -53,15 +53,16 @@ h2 {
     justify-content: flex-end;
     align-items: flex-start;
     font-family: fantasy;
-    font-size: large;
+    font-size: xx-large;
     margin-right: 10em; 
 }
 
 #about {
     font-family: fantasy;
-    font-size: medium;
+    font-size: x-large;
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;
     margin-right: 3em;
 }
+

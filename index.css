@@ -6,9 +6,9 @@
 }
 
 #vader {
-    margin-left: 50px;
-    height: 200px;
-    width: 250px;
+    margin-left: 5em;
+    height: 15em;
+    width: 18em;
     display: flex;
     justify-content: flex-start;
     align-items: flex-start;
@@ -50,11 +50,11 @@ h1 {
 
 h2 {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: flex-start;
     font-family: fantasy;
     font-size: large;
-    margin-left: 700px; 
+    margin-right: 30em; 
 }
 
 #about {
@@ -63,5 +63,5 @@ h2 {
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;
-    margin-right: 100px;
+    margin-right: 3em;
 }

@@ -73,6 +73,43 @@ h3 {
     font-size: x-large;
 }
 
+h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: fantasy;
+    font-size: xx-large;
+}
+
+h5 {
+    display: flex;
+    justify-content:flex-start;
+    align-items: flex-start;
+    font-family: fantasy;
+    font-size: large;
+    margin-left: 1em;
+}
+
+h6 {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-start;
+    font-size: large;
+    font-family: fantasy;
+    margin-right: 20em;
+}
+
+#last {
+    color: yellow;
+    font-family: fantasy;
+    height: 10em;
+    width: 10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
 #about {
     font-family: fantasy;
     font-size: x-large;
@@ -90,4 +127,79 @@ h3 {
     align-items: center;
 
 }
+
+#trucks {
+    font-family: fantasy;
+    font-size: large;
+    margin-left: 3em;
+}
+
+#port {
+    font-family: fantasy;
+    font-size: large;
+    margin-left: 3em;
+}
+
+#proj {
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    order: row;
+    height: 12em;
+    width: 12em;
+    margin-left: 12em;
+}
+
+#git {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    order: row;
+    height: 8em;
+    width: 10em;
+    margin-left: 50em;
+}
+
+#tongue {
+    font-size: x-large;
+    color: yellow;
+    font-family: fantasy;
+    margin-left: 42em;
+}
+
+#github {
+    font-size: x-large;
+    color: yellow;
+    font-family: fantasy;
+    margin-left: 1em;
+}
+
+#linked {
+    font-size: x-large;
+    color: lightblue;
+    font-family: fantasy;
+    margin-left: 8em;
+}
+
+#gmail {
+    font-size: x-large;
+    color: red;
+    font-family: fantasy;
+    margin-left: 16em;
+}
+
+#xbox {
+    font-size: x-large;
+    color: green;
+    font-family: fantasy;
+    margin-left: 24em;
+}
+
+#twitter {
+    font-size: x-large;
+    color: lightblue;
+    font-family: fantasy;
+    margin-left: 30em;
+}
+
 
